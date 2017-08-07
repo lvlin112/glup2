@@ -1,0 +1,1 @@
+var scroo=new IScroll(".info")
